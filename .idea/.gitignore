@@ -1,8 +1,3 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-Files/similarity_tags_genres.pkl
-Files/similarity_tags_keywords.pkl
-Files/similarity_tags_tprduction_comp.pkl
-Files/similarity_tags_tcast.pkl
-Files/similarity_tags_tags.pkl
